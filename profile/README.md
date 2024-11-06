@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./assets/finduu.png" alt="Finduu Logo" width="200"/>
+</p>
+
 ---
 
 # Finduu
